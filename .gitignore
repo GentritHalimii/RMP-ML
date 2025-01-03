@@ -1,0 +1,13 @@
+# Ignore Rider and IntelliJ IDEA files
+.idea/
+
+# Ignore build output and compiled files
+obj/
+bin/
+
+# Ignore Rider project metadata
+*.nuget.info
+*.AssemblyInfo.*
+
+# Ignore cache files
+*.cache
